@@ -4,53 +4,24 @@
     // Book content for all pages
     const pages = [
         {
-            left: `<h1>Haan chutiya hun main</h1>
-                <p>Is website co complete krne ke liye obvs,</p>`,
-            right: `<h2>Kya dekh rhe ho?</h2>
-                <p>Jiske ke liye banaya vo toh zindagi mein hi nhi hai.</p>`
+            left: `<h1>TBD</h1>
+                <p>To be completed</p>`,
+            right: `<h2>TBD</h2>
+                `
         },
         {
-            left: `<h1>Maza aa rha hai padne mein?</h1>
-                <p>May god blast you</p>
-                <h2>Nhi aa rha maza?</h2>
-                <p>toh padha kyun fir?</p>
-                <p>anywayds aage minecraft tips hai so yeah dekh lo</p>`,
-            right: `<h2>Finding Ores</h2>
-                <p>Different ores spawn at different heights:</p>
-                <p>• Coal: Y-level 0 to 256</p>
-                <p>• Iron: Y-level -64 to 320</p>
-                <p>• Gold: Y-level -64 to 32</p>
-                <p>• Diamond: Y-level -64 to 16</p>
-                <p>The best level for diamonds is Y-level -59, also known as the "diamond layer."</p>`
+            left: `<h1>TBD</h1>
+            `,
+            right: `<h2>TBD</h2>
+               `
         },
         {
-            left: `<h1>Farming & Food</h1>
-                <p>Sustainable food sources are important for long-term survival.</p>
-                <h2>Crop Farming</h2>
-                <p>Find seeds by breaking tall grass. Plant them near water on tilled soil.</p>
-                <p>Crops grow faster with proper lighting and water nearby.</p>
-                <p>Build a simple farm early to ensure you never go hungry.</p>`,
-            right: `<h2>Animal Farming</h2>
-                <p>Breed animals for renewable food:</p>
-                <p>• Cows: wheat</p>
-                <p>• Pigs: carrots/potatoes</p>
-                <p>• Chickens: seeds</p>
-                <p>• Sheep: wheat</p>
-                <p>Build fences to keep your animals safe from monsters and prevent them from wandering away.</p>`
+            left: ``,
+            right: ``
         },
         {
-            left: `<h1>Combat & Defense</h1>
-                <p>Knowing how to fight is essential in Minecraft.</p>
-                <h2>Weapons & Armor</h2>
-                <p>Always wear the best armor you can craft. Diamond armor provides excellent protection.</p>
-                <p>Enchant your gear to make it even more powerful against dangerous mobs.</p>`,
-            right: `<h2>Common Enemies</h2>
-                <p>• Zombies: Slow but dangerous in groups</p>
-                <p>• Skeletons: Keep your distance</p>
-                <p>• Creepers: Stay away or they explode!</p>
-                <p>• Spiders: Can climb walls</p>
-                <p>• Endermen: Don't look them in the eyes</p>
-                <p>Stay alert and always be prepared for combat!</p>`
+            left: ``,
+            right: ``
         }
     ];
 
